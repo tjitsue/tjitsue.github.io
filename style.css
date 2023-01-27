@@ -1,0 +1,24 @@
+p.wtf {
+    color: #355C7D; font-weight: bold;
+  } 
+
+div.gpa{
+    font-weight: italic;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  border-radius: 60%;
+}
+
+body {
+  background-color: #EDCABE;
+  }
+
+  .emphasized { font-style: italic; }
